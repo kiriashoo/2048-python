@@ -9,6 +9,7 @@ To start the game, run:
     
     $ python3 puzzle.py
 
+[![Run on Repl.it](https://repl.it/badge/github/kiriashoo/2048-python)](https://repl.it/github/kiriashoo/2048-python)
 
 Contributors:
 ==
